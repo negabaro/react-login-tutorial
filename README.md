@@ -2,6 +2,11 @@
 
 http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
 
+## react-redux-registration-login-example
+
+http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+https://github.com/cornflourblue/react-redux-registration-login-example/blob/582a15420563511d15de638e4887e3fabab62f93/src/_actions/user.actions.js
+
 # realworld
 
 https://stackblitz.com/edit/react-redux-realworld-qpaiua?file=components%2FLogin.js
